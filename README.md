@@ -1,5 +1,4 @@
-# Data Science Bootcamp Batch 06 ![image](https://user-images.githubusercontent.com/125430998/226800724-d2393744-d255-4844-ab9f-76fd106c0268.png)
-
+# Data Science Bootcamp Batch 06 ![Screenshot 2023-03-22 111655](https://user-images.githubusercontent.com/125430998/226800940-6ffac6a4-7722-4674-9f35-ed32c0e7a606.jpg)
 Data science bootcamp with `adToy` [Datarockie](https://datarockie.com/)
 
 We learn 10 sprints in 4 month
