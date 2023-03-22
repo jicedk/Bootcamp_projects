@@ -46,7 +46,7 @@ We learn 10 sprints in 4 month
 
 ## Intro to Python Programming
 -  interactive mini game with bot using `Python`
--  [ATM](python/atm.py)ATM class `(Object-Oriented Programming)` containing at least 5 methods as ATM functions to interact with users.
+-  [ATM](python/atm.py) ATM class `(Object-Oriented Programming)` containing at least 5 methods as ATM functions to interact with users.
 
 ## Essential Python for Data Analyst
 - Using the `pandas` and `numpy` library to analyze sales data
