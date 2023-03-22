@@ -27,8 +27,8 @@ We learn 10 sprints in 4 month
 - [Restaurant](https://replit.com/@jirawatlimavira/SQLHWbatch6) A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
 
 ## R Programming
--[Pizza101](https://replit.com/@jirawatlimavira/RHWPizza) A rule-based chatbot to order pizza with some dialogue
--[Pao-Ying-Chub](https://replit.com/@jirawatlimavira/RHWRSP#main.r)Pao-Ying-Chub game with bot using `R`
+- [Pizza101](https://replit.com/@jirawatlimavira/RHWPizza) A rule-based chatbot to order pizza with some dialogue
+- [Pao-Ying-Chub](https://replit.com/@jirawatlimavira/RHWRSP#main.r)Pao-Ying-Chub game with bot using `R`
 
 ## Data Transformation
 - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
