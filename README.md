@@ -19,9 +19,9 @@ We learn 10 sprints in 4 month
 # All my projects 💻
 
 ## Spreadsheets
--  Queries that return results dynamically  
--  Converting TH date to EN date
--  Using regular expression to extract and parse ID card information
+- [Dynamic Query](Dynamic Query.pdf) Queries that return results dynamically  
+- [TH to EN date](TH to EN date.pdf)Converting TH date to EN date
+- [ID Card](ID Card.pdf)Using regular expression to extract and parse ID card information
 
 ## SQL Database
 - [Restaurant](https://replit.com/@jirawatlimavira/SQLHWbatch6) A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
