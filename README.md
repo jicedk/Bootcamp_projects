@@ -24,11 +24,11 @@ We learn 10 sprints in 4 month
 - [ID card](https://docs.google.com/spreadsheets/d/1MbtCHDtr5_1vji5BUfoYWbRk03coriWhuUdggOVj8ds/edit?usp=sharing)Using regular expression to extract and parse ID card information
 
 ## SQL Database
-- [Resterrant](https://replit.com/@jirawatlimavira/SQLHWbatch6) A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
+- [Restaurant](https://replit.com/@jirawatlimavira/SQLHWbatch6) A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
 
 ## R Programming
-- A rule-based chatbot to order pizza with some dialogue
-- An interactive mini game with bot using `R`
+-[Pizza101](https://replit.com/@jirawatlimavira/RHWPizza) A rule-based chatbot to order pizza with some dialogue
+-[Pao-Ying-Chub](https://replit.com/@jirawatlimavira/RHWRSP#main.r)Pao-Ying-Chub game with bot using `R`
 
 ## Data Transformation
 - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
