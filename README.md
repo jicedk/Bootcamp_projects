@@ -1,6 +1,6 @@
 # Bootcamp_projects
 
-Data science bootcamp with 'adToy'
+Data science bootcamp with 'adToy' 'datarockie'
 
 We learn 10 sprints 
 
@@ -15,4 +15,4 @@ We learn 10 sprints
 - Essential Python for Data Analyst
 - DashBoard
 
-Badges :
+Badges : 
