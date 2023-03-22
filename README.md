@@ -1,4 +1,4 @@
-# Data Science Bootcamp Batch 06 ![science](https://user-images.githubusercontent.com/125430998/226800568-abd7729b-2dc1-4b88-b272-0710295f5499.png)
+# Data Science Bootcamp Batch 06 ![image](https://user-images.githubusercontent.com/125430998/226800724-d2393744-d255-4844-ab9f-76fd106c0268.png)
 
 Data science bootcamp with `adToy` [Datarockie](https://datarockie.com/)
 
