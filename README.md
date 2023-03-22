@@ -20,7 +20,7 @@ We learn 10 sprints in 4 month
 
 ## Spreadsheets
 - [Dynamic Query](Dynamic_Query.pdf) Queries that return results dynamically  
-- [TH to ENdate](TH_to_EN_date.pdf) Converting TH date to EN date
+- [TH to EN date](TH_to_EN_date.pdf) Converting TH date to EN date
 - [ID Card](ID_Card.pdf) Using regular expression to extract and parse ID card information
 
 ## SQL Database
