@@ -1,6 +1,6 @@
 # Data Science Bootcamp Batch 06
 
-Data science bootcamp with 'adToy' ![url](https://datarockie.com/)
+Data science bootcamp with 'adToy' datarockie(https://datarockie.com/)
 
 We learn 10 sprints 
 
@@ -20,3 +20,4 @@ Badges :
 
 
 # All my projects 💻
+
