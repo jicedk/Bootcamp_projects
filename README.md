@@ -24,7 +24,7 @@ We learn 10 sprints in 4 month
 - [ID card](https://docs.google.com/spreadsheets/d/1MbtCHDtr5_1vji5BUfoYWbRk03coriWhuUdggOVj8ds/edit?usp=sharing)Using regular expression to extract and parse ID card information
 
 ## SQL Database
--  A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
+- [Resterrant](https://replit.com/@jirawatlimavira/SQLHWbatch6) A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
 
 ## R Programming
 - A rule-based chatbot to order pizza with some dialogue
