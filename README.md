@@ -19,7 +19,7 @@ We learn 10 sprints in 4 month
 # All my projects 💻
 
 ## Spreadsheets
--  [Dynamic Query](https://github.com/jicedk/Bootcamp_projects/blob/main/Dynamic%20Query.pdfQueries) that return results dynamically  
+- [Dynamic Query](/Dynamic Query.pdf) Queries that return results dynamically  
 -  Converting TH date to EN date
 -  Using regular expression to extract and parse ID card information
 
