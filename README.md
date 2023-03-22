@@ -45,8 +45,8 @@ We learn 10 sprints in 4 month
 -  Using library `caret`,package in `R`. for train ML_model
 
 ## Intro to Python Programming
--  An interactive mini game with bot using `Python`
--  An ATM class `(Object-Oriented Programming)` containing at least 5 methods as ATM functions to interact with users.
+-  interactive mini game with bot using `Python`
+-  [ATM](python/atm.py)ATM class `(Object-Oriented Programming)` containing at least 5 methods as ATM functions to interact with users.
 
 ## Essential Python for Data Analyst
 - Using the `pandas` and `numpy` library to analyze sales data
