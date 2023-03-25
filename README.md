@@ -51,7 +51,7 @@ We learn 10 sprints in 4 month
 
 ## Essential Python for Data Analyst
 - Using the `pandas` and `numpy`
-- Using Public API from [TikTok All in One] to create the data frame of Music search
+- [API](API.pdf) Using Public API from The Star Wars API
 
 ## Dashboard
 - Dashboard showing the data from- `Looker Studio`
