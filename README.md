@@ -50,9 +50,8 @@ We learn 10 sprints in 4 month
 -  [ATM](python/ATM.py) ATM class `(Object-Oriented Programming)` containing at least 5 methods as ATM functions to interact with users.
 
 ## Essential Python for Data Analyst
-- Using the `pandas` and `numpy` library to analyze sales data
+- Using the `pandas` and `numpy`
 - Using Public API from [TikTok All in One] to create the data frame of Music search
-- Using the `sklearn` library to build simple machine learning models for regression and classification problems
 
 ## Dashboard
 - Dashboard showing the data from- `Looker Studio`
