@@ -50,7 +50,7 @@ We learn 10 sprints in 4 month
 -  [ATM](python/ATM.py) ATM class `(Object-Oriented Programming)` containing at least 5 methods as ATM functions to interact with users.
 
 ## Essential Python for Data Analyst
-- [numpy-pandas](numpy-pandas.pdf)Using the `pandas` and `numpy`
+- [numpy-pandas](numpy-pandas.pdf) Using the `pandas` and `numpy`
 - [API](API.pdf) Using Public API from The Star Wars API
 
 ## Dashboard
