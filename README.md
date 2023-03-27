@@ -59,7 +59,7 @@ We learn 10 sprints in 4 month
 - [Tableau Public](TableauPublic.pdf) Dashboard - `Tableau Public`
 
 
-**Badges** : 
+**Badges** : [Certified Professional](https://badgr.com/public/assertions/nvNLuQdWRJK0WSkOtp8X4w?email=joeyjirawat@gmail.com)
 
 ![Certified Professional Data Analyst Digital Badge](https://user-images.githubusercontent.com/125430998/226791157-307f296f-8701-413c-b9d6-c09175b7cbc8.png)
 
