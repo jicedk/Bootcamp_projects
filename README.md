@@ -54,7 +54,7 @@ We learn 10 sprints in 4 month
 - [API](API.pdf) Using Public API from The Star Wars API
 
 ## Dashboard
-- Dashboard showing the data from- `Looker Studio`
+- [PowerBI](power_bi.pdf)Dashboard  `PowerBI`
 - 
 
 
