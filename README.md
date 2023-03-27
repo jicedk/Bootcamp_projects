@@ -56,6 +56,7 @@ We learn 10 sprints in 4 month
 ## Dashboard
 - [PowerBI](power_bi.pdf) Dashboard  `PowerBI`
 - [Looker Studio](Superstore_Sales_Batch_06.pdf)  Dashboard showing the data from [Superstore Sales](https://public.tableau.com/app/resources/sample-data) - `Looker Studio`
+- [Tableau Public](TableauPublic.pdf) Dashboard - `Tableau Public`
 
 
 **Badges** : 
