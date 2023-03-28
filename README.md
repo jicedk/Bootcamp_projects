@@ -1,4 +1,4 @@
-# Data Science Bootcamp Batch 06 💻
+# Data Science Bootcamp Batch 06 🖥️
 
 Data science bootcamp with `adToy` [Datarockie](https://datarockie.com/)
 
